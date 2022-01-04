@@ -72,7 +72,7 @@ git push -u origin <your_branch_name>
 
 
 <p><strong>Connect with us</strong></p>
-<p align="center"> 
+<p> 
 <a href="https://discord.com/invite/qasdyzarV9"><img alt="discord_logo" 
 src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="40px" height="45px"/></a>
 &nbsp;
@@ -80,7 +80,7 @@ src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="40p
 &nbsp;
 <a href="https://github.com/Web3DAO-Community"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
 &nbsp;
-
+</p>
 
 <!--
 
