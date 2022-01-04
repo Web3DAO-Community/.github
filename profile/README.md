@@ -2,10 +2,6 @@
   <img width="1000px" height="200px" src="readme.jpg" alt="hello">
 </p>
 <br>
-<p align="center">
-
-</p>
-<br>
 Welcome to Web3DAO Community👋.
 <br>
 You can kick off your web3 developer journey with the web3DAO community from zero to hero we will take you from setting up your first crypto-wallet all the way to creating a DAO. We believe in learning by doing things following our roadmap, resources, sessions, and building the projects with us.
