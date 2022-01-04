@@ -3,7 +3,7 @@
 </p>
 <br>
 <p align="center">
-<a href="https://discord.gg/tQBjTkGu" alt="community-discord-server">
+<a href="https://discord.com/invite/qasdyzarV9" alt="community-discord-server">
    <img src="https://img.shields.io/discord/835424705410236427?logo=discord&?style=for-the-badge&colorB=5865F2" target="blank" />
 </a>
 
