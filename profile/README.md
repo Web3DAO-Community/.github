@@ -15,6 +15,23 @@
 <br>
 Web3DAO is a community that focuses on web3, blockchain, and related to decentralized applications (Dapp). You can kick off your web3 developer journey with the web3DAO community from zero to hero we will take you from setting up your first crypto-wallet all the way to creating a DAO. We believe in learning by doing things following our roadmap, resources, sessions, and building the projects with us. Here you will get to interact with some great folks and learn blockchain technology together. This community is in its initial stage so you can show your leadership skills and help for everyone's success.
 
+<br>
+<br>
+<p>
+<p align="center"><i>Not sure where to start?</i> Join our <a href="https://discord.gg/TSRwqx4K2v">Discord Server</a></p>
+</p>
+
+---
+
+<p align="center"><strong>Connect with us</strong></p>
+<p align="center"> 
+<a href="https://discord.gg/TSRwqx4K2v"><img alt="discord_logo" 
+src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="40px" height="45px"/></a>
+&nbsp;
+<a href="https://twitter.com/Web3DAO_"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+&nbsp;
+<a href="https://github.com/Web3DAO-Community"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
+&nbsp;
 <!--
 
 **Here are some ideas to get you started:**
