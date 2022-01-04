@@ -1,7 +1,17 @@
 <p align="center">
   <img width="1000px" height="200px" src="readme.jpg" alt="hello">
 </p>
-
+<br>
+<p align="center">
+<a href="https://discord.gg/tQBjTkGu" alt="community-discord-server">
+   <img src="https://img.shields.io/discord/835424705410236427?logo=discord&?style=for-the-badge&colorB=5865F2" target="blank" />
+</a>
+<a href= "https://github.com/Web3DAO-Community" alt = "Stars">
+  <img src = "https://img.shields.io/github/stars/web3community?style=social" target="blank" />
+</a>
+<a href="https://twitter.com/Web3DAO_" alt="Follow Web3Community on Twitter">
+<img src="https://img.shields.io/twitter/follow/web3community?label=Web3Community&style=social" /></a>
+</p>
 <!--
 
 **Here are some ideas to get you started:**
