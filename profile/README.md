@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img width="1000px" height="200px" src="readme.jpg" alt="hello">
+</p>
 <br>
 <p align="center">
 <a href="https://discord.gg/tQBjTkGu" alt="community-discord-server">
