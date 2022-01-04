@@ -71,7 +71,7 @@ git push -u origin <your_branch_name>
 <br>
 
 
-<p align="center"><strong>**Connect with us**</strong></p>
+<p><strong>Connect with us</strong></p>
 <p align="center"> 
 <a href="https://discord.com/invite/qasdyzarV9"><img alt="discord_logo" 
 src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="40px" height="45px"/></a>
